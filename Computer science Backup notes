@@ -1,0 +1,843 @@
+Arnav Pal
+Mr. Cho 
+2022-11-10
+ICS3U0-C
+
+(HTML)
+
+(Lab 1)
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!--   Hello, Arnav -->
+  <h1>Future trip plan to Rio de Janeiro (brazil)</h1>
+  <p> The main reason I want to go to brazil is the forest and I want to go for a jungle safari/amazon rain forest  </p>
+  <p>Brazil has many festivals and has good food  <br></br> It has a huge sea side and has a lot of monuments, and has a good carnival festival. <br></br> The beach has really long coast line and can go rock climbing in the mountains. 
+  </p>
+</body>
+
+</html>
+
+(Lab 2)
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+ <h1>Future trip plan Brazil</h1>
+  <p> The main reason I want to go to brazil is the forest and I want to go for a jungle safari/amazon rain forest. Brazil has many festivals and has good food.  <br></br> It has a huge sea side and has a lot of monuments, and has a good carnival festival. <br></br> The beach has really long coast line and can go rock climbing in the mountains. 
+  </p>
+  <ol type=I>
+   <i><strong> <b><li>Things to do in brazil:</li></b></i></strong>
+      <ul>
+        <li>Skydiving </li>
+        <li>Visit the beach</li>
+        <li>Go to the amazon rainforest</li>
+  
+        
+      </ul>
+    <br></br>
+  <i><strong> <b><li>Places to visit in Brazil</li></b></strong></i>
+    <ul>
+    <li>Salvador </li>
+    <li>Rio de Janeiro </li>
+    <li>Fernando de Noronha</li>
+    <li>Iguaçu Falls</li>
+
+
+      
+    </ul>
+  </ol>
+  
+</body>
+
+</html>
+
+(Lab 3)
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body style="background-color:#009c3b">
+  <h1>Future trip plan Brazil</h1>
+  <br></br>
+  <img src="https://cdn.cnn.com/cnnnext/dam/assets/220125121731-destination-brazil-hero-image.jpg" alt="Red Farmhouse" width="250px"/>
+  <img src= "https://c.files.bbci.co.uk/1145D/production/_110794707_gettyimages-590664365.jpg" alt="Red Farmhouse" width="250px"/>
+  <p> The main reason I want to go to brazil is the forest and I want to go for a jungle safari/amazon rain forest. Brazil has many festivals and has good food.  <br></br> It has a huge sea side and has a lot of monuments, and has a good carnival festival. <br></br> The beach has really long coast line and can go rock climbing in the mountains. 
+  </p>
+  <ol type=I>
+    
+   <i><strong> <b><li>Things to do in brazil:</li></b></i></strong>
+      <ul>
+        <li>Skydiving </li>
+        <li>Visit the beach</li>
+        <li>Go to the amazon rainforest</li>
+      </ul>
+    <br></br>
+  <i><strong> <b><li>Places to visit in Brazil</li></b></strong></i>
+    <ul>
+    <li>Salvador </li>
+    <li>Rio de Janeiro </li>
+    <li>Fernando de Noronha</li>
+    <li>Iguaçu Falls</li>
+    </ul>
+  </ol>
+  
+</body>
+
+</html>
+
+(Website) (HTML)
+(Page 1)
+<header>
+<h>Hardware Assigment</h>
+<p>The user clicks on the Save button on a program that is local to the computer.</p>
+</header>
+
+  <center>
+    <br>
+    <br>
+    <br>
+    
+<body>    
+<a href ="Definitions.html"><button class="button"> Definitions </button> </a>
+</body>
+  
+<body>
+<a href="steps.html"><button1 class="button"> Steps </button1></a>
+</body> 
+  
+   <body>  
+<a href="Citation.html"><button2 class="button"> Citations </button></a>
+   </body>
+    
+    </center>
+  
+  <body>
+
+  <br><br/>
+    <center>
+     <img src="https://static.bhphotovideo.com/explora/sites/default/files/styles/960/public/SSD-New-TS.jpg?itok=hZM_lrdz" alt="Red Farmhouse" width="450px"/>
+
+     <img src="https://cdn.britannica.com/64/74064-050-455012AD/mouse-personal-computer.jpg" alt="Red Farmhouse" width="400px"/>
+   </center> 
+<center>
+    <p1> Arnav Pal </p1>
+  <p2> 2022-09-25</p2>
+ </center>
+</body>
+
+<html>
+
+(Page 2)
+<body style = background-color:beige>
+<center><i><strong> <b><h1>Definitions</h1></b></i></strong></center>
+
+<h3>All the important and unknown words defination</h3>
+<b>
+<p>
+  Multithreading:A software or operating system that supports numerous users simultaneously without requiring several copies of the software to execute on the computer is known as multithreading.</p>
+  </b>
+<b>
+<p>ROM:Non-volatile memory, or "read-only memory," is a kind used in computers and other electronic devices.</p>
+  </b><b>
+<p> RAM:RAM is a short-term memory pool where your computer keeps information it needs to access fast.</p>
+</b>
+<b>
+<p>Interrupt: A software program or a device connected to a computer can send out a signal known as an interrupt. The operating system (OS) must pause and decide what to do next. An interrupt briefly suspends or ends a running service or process.</p>
+</b>
+ <img src="https://www.technipages.com/wp-content/uploads/2020/12/processor-cores.jpg" alt="Red Farmhouse" width="350px"/>
+
+ <img src="https://www.thoughtco.com/thmb/df34N3Ga5m2x1DU2clTYvHLixCI=/1280x720/smart/filters:no_upscale()/Amiga_1200_Kickstart_3.0_ROMs-56b429575f9b5829f82c66bd.jpg" alt="Red Farmhouse" width="350px"/>
+
+<img src="https://academy.avast.com/hubfs/New_Avast_Academy/How%20to%20check%20your%20RAM%20memory/How_to_Check_How_Much_RAM_You_Have-Hero.jpg" alt="Red Farmhouse" width="400px"/>
+  
+  </body>
+  </html>
+
+(Page 3)
+<body style=background-color:lightblue;>
+<header>
+  <center>
+  <h1>Steps</h1>
+    </center>
+  <h3> Steps following Mouse - ? - ? - ? - Solid State Drive</h3>
+</header>
+<main>
+
+  <article style="padding: 5px; border: 3px solid blue;">
+      <ol type=1>
+
+    <li> 
+<!--1 -->    The wireless mouse is connected via Bluetooth or infrared radio waves there is a. The USB plug is connected through the motherboard. </Li> 
+<br>
+ <!-- 2 -->   <li>The mouse is moving so we can put the cursor over the save button, to do that the mouse creates an interrupt, the interrupt basically a way to tell the computer that an event needs to be processed.</li>
+<br>
+<!-- 3 --> <li>Then the mouse is moved on top of the save button so that we are able to press the save button. This happens because of the mouse's optical sensors. The mouse has CMOS sensors which help the mouse move on the screen, this happens as we move the mouse on a surface in a direction. </li>
+<br>
+<!-- 4 --> <li>The operating system then keeps track of where the cursor should be on your screen. The screen Hz also allows you to see the mouse smoother the higher the Hz the smoother the movement.</li>
+<br>
+<!-- 5 --><li>When the mouse cursor is over the save file then the mouse is clicked. </li>
+<br>
+<!-- 6 --> <li> Then the mouse trigger in the mouse takes place and the mouse sends an electric signal to the bus, a bus in the computer makes the components communicate inside the computer.</li>
+<br>
+<!-- 7 --> <li>Then the Motherboard takes the input from the USB chip that is connecting the mouse and communicates with the CPU,then sends signals to the CPU then the CPU takes the data and converts the data into bits also known as ones and zeros, or takes the input(mouse click) and turns it into an output on our screen.</li>
+<br>
+<!-- 8 --> <li>There are 3 key stages during this process, fetch,  decode and execute. The CPU then can process events going on in the computer.</li>
+<br>
+<!-- 9 --> <li>The CPU then fetches the data coming from the motherboard and decodes it to execute the process the CPU works with the ram to process the event faster. The RAM process the data faster as it stores data on a short-term base, unlike the SSD and HDD.</li>
+<br>
+<!-- 10 --> <li>That's why it matters how many cores are in your CPU and the GB of ram you have in your computer, some CPUs nowadays have employed a technology called multithreading which allows the Computer to execute two or more events at once.</li>
+<br>
+<!-- 11 --> <li>The CPU transfers the data to the RAM which then  access the memory to perform the click.</li>
+<br>
+<!-- 12 --> <li> Meaning the ram can process things faster for example the higher the ram in your computer the better an ideal number of ram would be 16GB </li>
+<br>
+<!-- 13 --> <li>The CPU performs the mouse click by communicating with the ram this all happens in nanoseconds. The ram uses its memory and finds the mouse's routine and performs the task.</li>
+<br>
+<!-- 14 --> <li>Then the mouse click has been executed as the CPU stops any other functions and prioritizes your mouse click. Also known as the interrupt in which the CPU executes a task while interrupting other tasks. </li>
+<br>
+<!-- 15 --> <li>The button now has been clicked which leads to the CPU again decoding the information and communicating with the RAM to access the SSD.</li>
+<br>
+<!-- 16 --> <li>Then we are given a choice on where to save the file, which we get to decide if we want to save the file on our hard drive or the SSD. We choose the SSD as thats where we want our local file to be saved.</li>
+<br>
+<!-- 17 --> <li> The CPU then again helps execute the function, the CPU then communicates with the ram which communicates with the SSD. </li>
+<br>
+<!-- 18--> <li>An SSD is a solid state drive which is another type of data storage in your computer. The SSD is mainly used for business and gaming as the drive can be easily erased, transferred and written. Most businesses use SSD as data can be transferred easily and the drive is really fast compared to HDD.</li>
+<br>
+<!-- 19 --> <li> When the ram communicates with SSD to save the file. The ram is processing how to save and where to save the file.</li>
+<br>
+<!-- 20 -->  <li>The process behind how the file is saved is onto the solid state drive :</li>
+        <br>
+<!-- 21 --> <li> The non-volatile memory known as NAND flash, which is called for the specific logic gate it uses, is mostly used in solid-state drives. While volatile memory loses data without a power source, the non-volatile memory may maintain recorded information without a constant power supply.</li>
+<br>
+<!-- 22 --> <li>Data storage in NAND is based on binary code, a 0s and 1s coding scheme.</li>
+<br>
+<!-- 23 --> <li> Then the SSD writes the data in pages rather than sector to sector like the HDD</li>
+<br
+<!-- 24 --> <li>  After that, the local file is saved onto the SSD. As the SSD writes the file onto its disk.</li>
+  </article>
+</main>
+  
+</body>
+
+
+(Javascript ) (notes)
+
+(LAB 4 PART 1)
+/*
+  Name:        New File Generator (script.js)
+  Purpose:     Generates a new file for use in the ICS3U course
+
+  Author: Arnav Pal 866744      
+  Created:     28-Sep-2022
+  Updated:     29-Sep-2022
+*/
+
+
+
+// < -- LESSON CODE HERE -- >
+
+//name of variable  =  information
+// let name = "Arnav"     //Words/Text -> String Data
+// let age = 15      //numerical Data
+// let who_knocks = true     //Boolean Data (T/F)
+
+// console.log(name)
+// console.log(age)
+// console.log(is_he_the_one_who_knocks)
+
+// console.log("Hello " + name)
+// console.log(name + "'s age is " + age)
+// console.log("Is " + name + " the one who knocks? " )
+
+// if (who_knocks== false || "no" || "NO"){
+
+//   console.log("no");
+// }
+// else if(who_knocks == true || "yes" || "yes" || "Ye"){
+
+//   console.log("yes he is the one who knocks");
+// }
+
+// let num1= 27
+// let num2= 13 
+
+//make arithmatic operations
+console.log(num1+num2)
+console.log(num1*num2)
+console.log(num1-num2)
+console.log(num1/num2)
+console.log(num1%num2)
+console.log(num1**num2)
+
+
+//< -- LESSON CODE ENDS -- >
+
+
+(Lab 4) (Part 2)
+
+require('./index.js');
+
+let password = "buddy"
+let guess = prompt("What is the password buddy")
+let grade = ''
+
+
+if(password == guess){
+  grade = prompt("WHAT YOUR GRADE BUD")
+  if (grade < 50){ // 3 < 7
+  console.log("Ur child needs to quit school")
+} else if(grade >= 51 && grade <69){
+    console.log("Are u serious right neow?")
+  } else if( grade >= 70 && grade >= 80){
+    console.log(' so close but  skill issue')
+  } else if (grade>=90){
+  console.log('Insane ur the one who knocks ')
+}
+}
+
+//Task finish
+
+
+(LAB 5)
+
+require('./index.js');
+
+let password = "buddy"
+let guess = prompt("What is the password buddy")
+let grade = ''
+
+
+if(password == guess){
+  grade = prompt("WHAT YOUR GRADE BUD")
+  if (grade < 50){ // 3 < 7
+  console.log("Ur child needs to quit school")
+} else if(grade >= 51 && grade <69){
+    console.log("Are u serious right neow?")
+  } else if( grade >= 70 && grade >= 80){
+    console.log(' so close but  skill issue')
+  } else if (grade>=90){
+  console.log('Insane ur the one who knocks ')
+}
+}
+
+//Task finish
+
+(LAB 6)
+
+require('./index.js');
+
+let number = prompt("Enter a number")
+let factorial = number-1 
+
+if (number<1){
+  console.log("Error")
+}
+else{
+  while(factorial>1){}
+number=number*factorial
+factorial = factorial- 1 
+console.log(number)
+}
+
+
+
+
+
+
+//  let counter = 30 
+// let money = 0.25
+// let multiplier = 2 
+// let list = 1 
+
+// console.log(list + money)
+
+// while(counter>0){
+//   money = money*multiplier
+//   console.log(money)
+//   counter = counter -1 
+  
+  //repeat the code
+
+
+//for 
+
+// for (intial; condition; inc/dec){
+// }
+
+// for(counter  =30 ; counter = counter - 1; counter ==0){
+//   money = money*multiplier
+//   list = list +1
+// console.log(list+"." + money)
+  
+// }
+
+(LAB 7 )(A)
+
+// let dice1, dice2, dice3
+// let counter = 0
+// do{
+// dice1 = Math.floor(Math.random() * 6) + 1; 
+// dice2 = Math.floor(Math.random() * 6) + 1; 
+// dice3 = Math.floor(Math.random() * 6) + 1; 
+// console.log(dice1,dice2,dice3)
+// counter = counter + 1
+
+// }while(dice1 != dice2 || dice1 != dice3 || dice2 != dice3)
+
+// console.log("It took " + counter +" times")
+
+//task 1  ends 
+
+
+//tasl 2 starts
+let dice1, dice2, dice3
+let counter = 0
+do{
+dice1 = Math.floor(Math.random() * 6) + 1; 
+dice2 = Math.floor(Math.random() * 6) + 1; 
+dice3 = Math.floor(Math.random() * 6) + 1; 
+console.log(dice1,dice2,dice3)
+counter = counter + 1
+
+}while(dice1 + dice2 != dice3 )
+
+console.log("It took " + counter +" times")
+
+
+(LAB 7)(B)
+//This is required to get input from the user in the console.
+const readline = require('readline-sync');
+
+/*
+  Name:        Arnav Pal 
+  Purpose:     Generates a new file for use in the ICS3U course
+
+  Author:      
+  Created:     28-Sep-2022
+  Updated:     10/13/2022
+*/
+
+require('./index.js');
+
+let smallest, largest, roundedaverage;
+let numOfLoops = parseInt(prompt("How many numbers are u entering"))
+let counter = 0 
+let a,b
+
+do{
+  if(counter< 2){
+    a= parseInt(prompt(""))
+    b= parseInt(prompt(""))
+    smallest = Math.min(a,b)//(1,3) ==1
+    largest= Math.max(a,b)//(1,3) == 3
+    roundedaverage = (a+b)
+    counter = 2
+  }
+  else{
+    b= parseInt(prompt(""))
+    console.log(b)
+    smallest = Math.min(smallest,b)
+    largest = Math.max(largest,b)
+    roundedaverage += b
+    counter +=1
+  }
+} while (counter< numOfLoops);
+
+console.log("Smallest" +smallest)
+console.log("Largest"+largest)
+console.log("roundedaverage"+ roundedaverage)
+
+
+
+
+//Code goes here
+
+(Lab 8)
+//This is required to get input from the user in the console.
+const readline = require('readline-sync');
+
+/*
+  Name:        Arnav
+  Purpose:     Generates a new file for use in the ICS3U course
+
+  Author:      
+  Created:     28-Sep-2022
+  Updated:     28-Sep-2022
+*/
+
+require('./index.js');
+
+// //task 1 starts
+// let caps= prompt("first sentence");
+// let Smalls= prompt("Second sentence");
+// console.log(caps,Smalls)
+
+//task 1 ends 
+
+
+//task 2 starts 
+
+let sen = prompt("First sentence ") //5
+let vowel = 0 //2
+let space = 0
+let cons = 0 //3 
+let punc = 0 
+// 0123456789
+
+for(let i = 0; i < sen.length; i++){
+if (sen.at(i) == "a" || sen.at(i) == "e" || sen.at(i) == "i" || sen.at(i) == "o" || sen.at(i) == "u" ){
+  vowel += 1  
+  }
+  else if(sen.at(i) == " "){
+    space += 1 
+    
+  }
+  else if(sen.at(i) == "." || sen.at(i) == ";" || sen.at(i) == ":"){
+    punc +=1
+  }
+
+  else{
+    cons += 1
+  }
+}
+
+console.log("Vowels " + vowel)
+console.log("Space  " + space)
+console.log("Punctuation  " + punc)
+console.log("Consoants  " + cons)
+
+//Code goes here
+
+(Lab 9)
+//This is required to get input from the user in the console.
+const readline = require('readline-sync');
+
+//This section is needed for testing.
+module.exports = {
+  milesToKm,
+  // saleCalculator
+}
+
+/* **** DO NOT DELETE ABOVE THIS LINE **** */
+
+/*
+  Name:        Arnav Pal
+  Purpose:     Generates a new file for use in the ICS3U course
+
+  Author:      
+  Created:     10/18/2022
+  Updated:     10/18/2022
+*/
+
+// require('./index.js');
+// function inchestoCm (inches) {
+//   let cm = inches * 2.54
+//   return cm
+// }
+
+// console.log( inchtoCm (70)) //-- 177.8
+
+function milesToKm(distance) {
+  if (distance < 0 ){
+    return undefined
+  }
+  let km = distance*1.60934
+  km = Math.round(km * 100) /100
+  return km 
+}
+
+function saleCalculator(sale){
+  
+}
+
+(Lab 10)
+//This is required to get input from the user in the console.
+const readline = require('readline-sync');
+
+//This section is needed for testing.
+module.exports = {
+  milesToKm,
+  saleCalculator
+}
+
+/* **** DO NOT DELETE ABOVE THIS LINE **** */
+
+/*
+  Name:        New File Generator (script.js)
+  Purpose:     Generates a new file for use in the ICS3U course
+
+  Author:      
+  Created:     28-Sep-2022
+  Updated:     28-Sep-2022
+*/
+
+require('./lesson.js');
+
+
+/*
+Copy the two functions from your previous exercise (milesToKm() and saleCalculator()).  BOTH - even if you're using only one.
+
+Write some code that makes MULTIPLE CALLS of at least one of the functions, producing different results and being used in a meaningful way.
+
+*/
+
+function milesToKm(distance) {
+  if (distance < 0 ){
+    return undefined
+  }
+  let km = distance * 1.60934
+  return Math.round(km * 100) / 100
+}
+
+function saleCalculator(price, discount) {
+  if(price < 0 || discount < 0 || discount >=100){
+    return N/A
+  }
+  price = price * (1 - (discount/100))
+  price = (Math.round(price * 100)) / 100
+  return price
+}
+
+
+console.log("Welcome to arnav's class")
+
+// let discount = (Math.random() * 1) + 20;
+  let price = 50
+console.log("Today's class will cost " + price)
+console.log("do u have a coupon")
+let discount = parseInt(prompt(console.log("I have a coupon for- ")))
+price = saleCalculator(price, discount)
+
+// price = Math.round(price *100)/100
+console.log("your total is "+ price)
+
+(A2 javascript assignment)
+
+/*
+Author: Arnav Pal 
+Student number: 866744      
+Name: A2 Programming Assignment (script.js)
+Class:Introduction to Computer Science Grade 11
+Teacher:Mr. Cho
+Purpose:Generates a new file for use in the ICS3U course
+Created:23-Oct-2022
+Updated:5-Nov-2022
+  
+*/
+
+
+// function Chancesofsurvival{
+//all the let statements
+let guess = 0
+let num4 = 0
+let num1 = 100
+let a = 0
+let counter = 0
+let num3 = 0
+let num2 = 0
+let attempt = 5
+let choice = ""
+let choice2 = ""
+let choice3 = ""
+let choice4 = ""
+let choice5 = ""
+let choice6 = ""
+let amountOfNumbers = 5
+let total = 0
+let i = 0
+
+
+// Random numbers for diffrent paths
+let randomNum1 = Math.floor(Math.random() * 10) + 1
+let randomNum2 = Math.floor(Math.random() * 10) + 1
+let randomNum3 = Math.floor(Math.random() * 10) + 1
+let randomNum4 = Math.floor(Math.random() * 10) + 1
+
+
+
+//Functions used 
+//function to calculate the accuracy in percent the polar bear is going to strike
+function percentagetohit(num1, guess) {
+  if (num1 < 0 || guess < 0 || guess >= 100) {
+
+    return N / A
+  }
+  num1 = num1 * (1 - (guess / 100))
+  num1 = (Math.round(num1 * 100)) / 100
+  return num1
+}
+//function to get the distance from polar bear intial location to final
+function getDistance(x1, y1, x2, y2) {
+  let y = x2 - x1;
+  let x = y2 - y1;
+
+  return Math.sqrt(x * x + y * y);
+}
+//The intro to the story basically the back story
+console.log("The polar bear wants to meet his brother\n")
+console.log("You have to pick one direction to see if you can complete the story")
+
+choice = prompt("What is your choice, left, right or straight ")
+
+console.log("\n")
+
+// 1st choice
+if (choice == "right") {
+  console.log("You are in a paradise for food you see two animals a seal and a giant fish which will you go for -")
+  console.log("\n")
+  //user is asked to make a decsion 
+  choice = prompt("Choose your dinner || Fish or seal")
+}
+
+
+//choose a number between 1-10 to guess the percentage of the accuracy of the strike. 
+if (choice == "Fish" || choice == "fish") {
+  console.log("guess a number from 1-100 to strike the fish")
+  console.log("\n")
+  console.log("If number is under 50% you have failed to strike fish")
+  console.log("\n")
+  console.log("you die of hunger and reset if you are unable to get above 50%")
+  console.log("\n")
+  console.log("The number must be between 1-100 not above that")
+  //the computer asks for the users guess 
+  let guess = parseInt(prompt(console.log("My guesss is- ")))
+  num1 = percentagetohit(num1, guess)
+  //whatever the guess is it is divied by a 100 to get the percentage
+  console.log("chance to strike is % " + num1)
+
+  console.log("\n")
+  //if the percentage is above %50 you pass 
+  if (num1 >= 50) {
+    console.log("You have passed and have succeded to kill the fish ")
+    console.log("\n")
+    console.log("With that energy you are able to finish the game")
+    //else if the percentage is less then %50 you fail 
+  } else {
+    console.log("you have failed to kill the fish")
+  }
+}
+//if choice is seal you dont have to do anything
+else if (choice == "Seal" || choice == "seal") {
+  prompt("Press enter to get a number if number is higher than 5 you get to eat the seal")
+  //random number for seal
+  console.log(randomNum3)
+  //if the random number is greater than 5 or = you pass without trouble.
+  if (randomNum3 >= 5) {
+    console.log("Lucky you get to eat the seal without any trouble you win and have succeded.")
+
+    console.log("\n")
+  }
+  //else if the number is less than 5 you fail
+  else {
+    console.log("You have died of hunger and have to restart")
+  }
+}
+
+//2 choice in the story
+if (choice == "straight") {
+  console.log("The Polar bear is running in a straight line he has two options to either is either fly or teleport")
+
+  console.log("\n")
+
+  //the user is asked to pick an option between two things
+  choice = prompt("Choose your option || Fly or teleport")
+}
+//if choice = fly enter 5 numbers 
+if (choice == "Fly" || choice == "fly") {
+  console.log("You have to enter 5 numbers you cannot use 0 if you are able to get a sum of 299799509 M/S with the 5 numbers you succeed ")
+  console.log("\n")
+  prompt("Press enter to answer the question")
+  // you are to enter 5 numbers which the for loops does
+  for (i = 0; i < amountOfNumbers; i++) {
+    let number = parseInt(prompt("Enter your number"))
+    if (Number.isInteger(number) && number != 0) {
+      total = total + number
+    }
+    else {
+      console.log("Invalid input")
+    }
+  }
+  console.log(total)
+  //this is to make sure the answer is 299799509
+  if (total == 299799509) {
+    console.log("You have succeded ")
+  }
+  else {
+    console.log("you failed and have died ")
+  }
+
+}
+//if the user picks teleport 
+if (choice == "Teleport" || choice == "teleport") {
+  prompt("Press enter to get a number (if number is higher than 6 you pass)")
+  //random number for seal
+  console.log(randomNum4)
+  //if the number is greater or = 6 you have passed the test 
+  if (randomNum4 >= 6) {
+    console.log("you have passed and the polar bear meets his brother")
+  }
+  //if the person get anything lower than you fail
+  else {
+    console.log("you have failed and have failed to reach the goal")
+
+  }
+}
+// 3rd choice 
+// You meet a whale and the whale asks you a math questions 
+if (choice == "left" || choice == "Left") {
+  console.log("YOU MEET A SIDEKICK WHICH GIVES YOU A MATH QUESTIONS")
+
+  console.log("\n")
+  //the questions the user is asked 
+  console.log("Guess the points intial postion and the final postions to get the distance which will be the nearest 500km (450km - 550km)")
+
+  console.log("\n")
+
+  console.log("You have to guess the distance the polar bear travelled ")
+
+  //while loop used for the attempts in the questions
+  while (attempt > 0) {
+    console.log("You have " + attempt + " tries left.")
+    x2 = parseInt(prompt("What is x2 = "))
+    y2 = parseInt(prompt("What is y2 = "))
+    x1 = parseInt(prompt("What is x1 = "))
+    y1 = parseInt(prompt("What is y1 = "))
+
+    //function to get the distance the equation used is the distance equation on a graph 
+    num2 = parseInt(getDistance(x1, x2, y1, y2))
+    console.log(num2)
+    console.log("Distance travelled is " + num2 + " km")
+
+    //if number is greater than 450 and less than 550 is correct
+    if (num2 >= 450 && num2 <= 550) {
+      console.log("You have succeded and finished the game ")
+      attempt = 0
+    } else {
+      console.log("YOU HAVE FAILED THE TEST AND HAVE TO RESTART ")
+      attempt = attempt - 1
+    }
+  }
+}
